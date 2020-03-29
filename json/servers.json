@@ -37,7 +37,8 @@
 		"magic": "a1ebe00441f5aecb185d0ec178ca2305Y(02.>'H}t\":E1_root",
 		"servers": {
 			"ventilador": 9875,
-			"deu branco": 9876
+			"deu branco": 9876,
+			"chiclete": 9877
 		}
 	},
 	"free": {
@@ -67,14 +68,14 @@
 		}
 	},
 	"cpo": {
-		"host": "mail.cponline.pw",
-		"login": 3724,
+		"login": "158.69.121.176:3724",
 		"magic": "a1ebe00441f5aecb185d0ec178ca2305Y(02.>'H}t\":E1_root",
 		"single_quotes": true,
 		"servers": {
-			"flurry": 7007,
-			"alaska": 7002,
-			"sleet": 7008
+			"flurry": "mail.cponline.pw:7007",
+			"alaska": "mail.cponline.pw:7002",
+			"sleet": "mail.cponline.pw:7008",
+			"chiclete": "mail.cponline.pw:7022"
 		}
 	},
 	"aventure pingouin": {
