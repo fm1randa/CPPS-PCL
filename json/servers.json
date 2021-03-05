@@ -32,12 +32,13 @@
 		}
 	},
 	"brasil": {
-		"host": "188.165.206.119",
+		"host": "149.202.65.130",
 		"login": 9700,
 		"magic": "a1ebe00441f5aecb185d0ec178ca2305Y(02.>'H}t\":E1_root",
 		"servers": {
 			"ventilador": 9875,
-			"deu branco": 9876
+			"deu branco": 9876,
+			"chiclete": 9877
 		}
 	},
 	"super": {
