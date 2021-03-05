@@ -25,20 +25,19 @@
 		}
 	},
 	"io": {
-		"host": "146.59.154.2",
-		"login": 1337,
+		"host": "64.32.1.236",
+		"login": 6112,
 		"servers": {
-			"main": 1338
+			"main": 8868
 		}
 	},
 	"brasil": {
-		"host": "149.202.65.130",
+		"host": "188.165.206.119",
 		"login": 9700,
 		"magic": "a1ebe00441f5aecb185d0ec178ca2305Y(02.>'H}t\":E1_root",
 		"servers": {
 			"ventilador": 9875,
-			"deu branco": 9876,
-			"chiclete": 9877
+			"deu branco": 9876
 		}
 	},
 	"free": {
@@ -68,14 +67,14 @@
 		}
 	},
 	"cpo": {
-		"login": "158.69.121.176:3724",
+		"host": "mail.cponline.pw",
+		"login": 3724,
 		"magic": "a1ebe00441f5aecb185d0ec178ca2305Y(02.>'H}t\":E1_root",
 		"single_quotes": true,
 		"servers": {
-			"flurry": "mail.cponline.pw:7007",
-			"alaska": "mail.cponline.pw:7002",
-			"sleet": "mail.cponline.pw:7008",
-			"chiclete": "mail.cponline.pw:7022"
+			"flurry": 7007,
+			"alaska": 7002,
+			"sleet": 7008
 		}
 	},
 	"aventure pingouin": {
@@ -100,10 +99,6 @@
 			"abominable": 7004,
 			"ascent": 7008,
 			"beanie": 7011
-		},
-		"recaptcha": {
-			"origin": "https://play.cprewritten.net/",
-			"sitekey": "6Lc1p0YUAAAAAKfkOa8x3gMiOH2ms2lBqYKybPmM"
 		}
 	},
 	"again": {
